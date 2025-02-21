@@ -7,7 +7,7 @@ Author: Harrison Reed
 Date: 9/28/2023
 Resources used: Geeksforgeeks.org
 Collaborator(s): None
-Name: EECS210_Assignment_3
+Name:
 Descripton: C++ code to calulate certain set operations, and properties of Relations
 Outputs: Prints out each problem 
 
